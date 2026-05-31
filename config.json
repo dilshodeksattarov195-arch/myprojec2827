@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchepdate",
+        "uuid": 10208297,
+        "checksum": "wbenfg"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
